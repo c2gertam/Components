@@ -1,0 +1,1 @@
+Fixed navbar with media queries and floats

@@ -1,0 +1,1 @@
+Sticked footer with signs.
